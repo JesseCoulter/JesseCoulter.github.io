@@ -1,3 +1,6 @@
+---
+layout: wide_default
+---
 # **Study of Relationship Between 10k Sentiment and Returns - Jesse Coulter**
 
 ## Introduction
