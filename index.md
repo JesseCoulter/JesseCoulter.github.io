@@ -52,9 +52,8 @@ Maybe include a little about these, especially if they are the kinds of things t
 
 
 ## Photo
-<!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="https://github.com/JesseCoulter/JesseCoulter.github.io/raw/master/images/headshot.jpg" width="50%">
 </p>
 
