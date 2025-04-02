@@ -54,6 +54,6 @@ Maybe include a little about these, especially if they are the kinds of things t
 ## Photo
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/JesseCoulter/JesseCoulter.github.io/raw/master/images/headshot.jpg" width="50%">
+  <img class="img-circle" src="https://github.com/JesseCoulter/JesseCoulter.github.io/raw/master/images/headshot.jpg" width="25%">
 </p>
 
