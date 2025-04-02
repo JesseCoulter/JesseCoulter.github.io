@@ -1,6 +1,6 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
+I am a soon-to-be graduate from Lehigh University, completing a dual degree in Finance and Mechanical Engineering from the Integrated Business and Engineering Honors Program. I am grateful to have past internships in both engineering and finance at Air Products, and look forward to pursue a career in ______ at _______ after graduating. Outside of my professional background and education, I enjoy lifting, tennis, and trying not to pull a hammy while running. Born and raised in Allentown,PA, I am an avid fan of the Phillies and the Eagles. 
 
 ---
 
